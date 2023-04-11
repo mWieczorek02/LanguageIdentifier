@@ -1,0 +1,15 @@
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\bin\Debug\net7.0\LanguageIdentifier.exe
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\bin\Debug\net7.0\LanguageIdentifier.deps.json
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\bin\Debug\net7.0\LanguageIdentifier.runtimeconfig.json
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\bin\Debug\net7.0\LanguageIdentifier.dll
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\bin\Debug\net7.0\LanguageIdentifier.pdb
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.csproj.AssemblyReference.cache
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.AssemblyInfoInputs.cache
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.AssemblyInfo.cs
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.csproj.CoreCompileInputs.cache
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.dll
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\refint\LanguageIdentifier.dll
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.pdb
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\LanguageIdentifier.genruntimeconfig.cache
+D:\coding\csharp\LanguageIdentifier\LanguageIdentifier\obj\Debug\net7.0\ref\LanguageIdentifier.dll

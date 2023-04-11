@@ -1,0 +1,5 @@
+﻿Powierzchnia ekwipotencjalna, powierzchnia równego potencjału[1] – powierzchnia w polu potencjalnym, której wszystkie punkty mają jednakowy potencjał tego pola. Powierzchnie potencjalne określa się dla wszystkich pól potencjalnych np. pola elektrostatycznego lub pola grawitacyjnego. Powierzchnie ekwipotencjalne są w każdym punkcie pola prostopadłe do wektora pola (np. do wektora pola elektrycznego lub siły grawitacji), czyli także do linii natężenia pola. W geodezji i oceanografii jest to powierzchnia, która jest wszędzie pozioma, to znaczy w każdym punkcie tej powierzchni jej normalna (prosta prostopadła do stycznej) pokrywa się z kierunkiem pionu.
+
+W przypadku pola centralnego, np. pola elektrycznego ładunku punktowego czy pola grawitacyjnego masy punktowej, powierzchnie stałego potencjału są współśrodkowymi sferami, natomiast w przypadku pola jednorodnego, np. pola elektrycznego między okładkami kondensatora, są to równoległe płaszczyzny.
+
+Geoida jest powierzchnią ekwipotencjalną, na której potencjał siły ciężkości Ziemi jest stały, równy potencjałowi siły ciężkości na średnim poziomie mórz otwartych i przedłużoną umownie pod powierzchnią lądów.
