@@ -39,7 +39,7 @@ public class Perceptron : IPredictable
 
     private void Train(DataSet trainSet) => trainSet.Data.ToList().ForEach(Train);
 
-    public async Task TrainUntil(double accuracyTarget, DataSet trainSet, DataSet testSet)
+    public async Task TrainUntilAsync(double accuracyTarget, DataSet trainSet, DataSet testSet)
     {
         await Task.Run(() =>
         {

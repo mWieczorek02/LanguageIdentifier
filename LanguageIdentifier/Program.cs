@@ -24,7 +24,7 @@ var perceptronTasks = new List<Task>();
 perceptronLayer.ForEach(p =>
 {
     Console.WriteLine("new task");
-    var task = p.TrainUntil(1, trainSet, testSet);
+    var task = p.TrainUntilAsync(1, trainSet, testSet);
     perceptronTasks.Add(task);
 });
 
