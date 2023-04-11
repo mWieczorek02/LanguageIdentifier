@@ -15,16 +15,12 @@ public class Perceptron : IPredictable
     {
         Classifier = classifier;
 
-        Console.WriteLine(Classifier);
-
         _learningRate = learningRate;
 
         var r = new Random();
 
         _threshold = r.NextDouble() * (1 - -1) + -1;
         _weights = Enumerable.Range(0, trainSet.VectorSize ?? 0).Select(_ => r.NextDouble() * (1 - -1) + -1).ToList();
-        
-        Console.WriteLine("\n");
 
         Train(trainSet);
     }
@@ -78,7 +74,7 @@ public class Perceptron : IPredictable
                     }
                 });
                 accuracy = correct / (double)testSet.Data.Count;
-                
+
                 if (accuracy > max.Accuracy)
                 {
                     max = new
@@ -95,7 +91,6 @@ public class Perceptron : IPredictable
             if (max.Accuracy is 0) return;
             _weights = max.Weights;
             _threshold = max.Treshold;
-            
         });
     }
 
